@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 
 # Carregar modelo
-with open('modelo.pkl', 'rb') as f:
+with open('Codigo/modelo.pkl', 'rb') as f:
     modelo = pickle.load(f)
 
 # Criar página Streamlit
