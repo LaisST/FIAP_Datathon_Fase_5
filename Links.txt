@@ -1,0 +1,7 @@
+Gravação da Apresentação: https://canva.link/pfegcbjahiujpdf
+
+Power BI: https://app.powerbi.com/view?r=eyJrIjoiNWMxZDU5ZjgtMjE0YS00NWQ2LWIwOGEtYTc5NDk1OGRmN2Q3IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+
+Streamlit: https://fiapdatathonfase5-zsv5zwqlkp5bkmjfod2wyj.streamlit.app/
+
+GitHub: https://github.com/LaisST/FIAP_Datathon_Fase_5
